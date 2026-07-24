@@ -1,10 +1,11 @@
 # quant-research
 
-Private quantitative finance research workspace.
+Quantitative finance research workspace.
 
 ## Structure
 
 ```
+articles/    # Written articles and write-ups
 data/        # Raw and processed market data (gitignored)
 notebooks/   # Jupyter notebooks for exploration
 src/         # Reusable Python modules
