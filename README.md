@@ -1,7 +1,5 @@
 # quant-research
 
-# quant-research
-
 Independent research on factor investing across developed markets, with a focus on **The Japan Factor Puzzle**: why Japanese equities break the most robust anomaly in asset pricing, and what that says about how factor premia work.
 
 All analysis uses the Kenneth French developed-markets data library (North America, Europe, Japan, Asia Pacific ex Japan; monthly returns, November 1990 – mid-2026). Code, notebooks and articles are fully reproducible from public data.
